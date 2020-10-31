@@ -6,11 +6,12 @@ Assignment submitted for [Data Mining](http://vvz.ethz.ch/Vorlesungsverzeichnis/
 
 
 
-Algorithms implemented:
+Algorithms implemented (mostly from scratch):
 
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
 - [Dynamic time warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
 - [KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - [K-mer](https://en.wikipedia.org/wiki/K-mer) distance
 - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
 - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
