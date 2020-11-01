@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Skeleton for Homework 6: Random Walk Kernel and DBSCAN
-
-Authors: Christian Bock
+Homework 6: Random Walk Kernel and DBSCAN
 """
 
 import numpy as np
