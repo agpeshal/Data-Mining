@@ -6,7 +6,7 @@ Assignment submitted for [Data Mining](http://vvz.ethz.ch/Vorlesungsverzeichnis/
 
 
 
-Algorithms implemented (mostly from scratch):
+Algorithms implemented *from scratch*:
 
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
 - [Dynamic time warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
