@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Skeleton for Homework 4: Logistic Regression and Decision Trees
+Homework 4: Logistic Regression and Decision Trees
 Part 2: Decision Trees
-
-Authors: Anja Gumpinger, Bastian Rieck
 """
 
 from __future__ import division
